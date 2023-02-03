@@ -1,5 +1,12 @@
 h1 {
     color: blue;
+    text-align: center;
+}
+h2 {
+    color:#461147;
+}
+body {
+    background-color: #afb9b7;
 }
 hr{
     border-width: 10 px;
