@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<users>
+	<user>
+		<surname>Иванов</surname>
+		<name>Иван</name>
+		<patronymic>Иванович</patronymic>
+		<age>30</age>
+		<phone>+79267664848</phone>
+		<birthplace>Москва</birthplace>
+	</user>
+	<user>
+		<surname>Петров</surname>
+		<name>Петр</name>
+		<patronymic>Петрович</patronymic>
+		<age>32</age>
+		<phone>+79268789456</phone>
+		<birthplace>Ногинск</birthplace>
+	</user>
+</users>
